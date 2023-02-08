@@ -376,7 +376,9 @@ padding:1rem;
         margin-bottom:15px;
         border-right:none;
     }
-   
+   .container_left{
+    margin-left:2rem;
+   }
     .container_right::after{
         display:none;
     }
